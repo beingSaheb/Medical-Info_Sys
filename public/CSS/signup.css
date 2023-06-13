@@ -1,0 +1,127 @@
+body {
+    background-color: #344a72;
+    font-family: "Roboto", sans-serif;
+  }
+  
+  .signup-box {
+    width: 360px;
+    height: 620px;
+    margin: auto;
+    background-color: white;
+    border-radius: 3px;
+  }
+  
+  .login-box {
+    width: 360px;
+    height: 280px;
+    margin: auto;
+    border-radius: 3px;
+    background-color: white;
+  }
+  
+  h1 {
+    text-align: center;
+    padding-top: 15px;
+  }
+  
+  h4 {
+    text-align: center;
+  }
+  
+  form {
+    width: 300px;
+    margin-left: 20px;
+  }
+  
+  form label {
+    display: flex;
+    margin-top: 20px;
+    font-size: 18px;
+  }
+  
+  form input {
+    width: 100%;
+    padding: 7px;
+    border: none;
+    border: 1px solid gray;
+    border-radius: 6px;
+    outline: none;
+  }
+  input[type="button"] {
+    width: 320px;
+    height: 35px;
+    margin-top: 20px;
+    border: none;
+    background-color: #49c1a2;
+    color: white;
+    font-size: 18px;
+  }
+  p {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 15px;
+  }
+  .para-2 {
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    margin-top: -10px;
+  }
+  .para-2 a {
+    color: #49c1a2;
+  }
+
+  .main{
+    padding:20px;
+    font-family: 'Helvetica', serif;
+    box-shadow: 5px 5px 7px 5px #888888;
+    
+  }
+  .main h1{
+    font-size: 40px;
+    text-align:center;
+    font-family: 'Helvetica', serif;
+    
+  }
+  input{
+    font-family: 'Helvetica', serif;
+    width: 100%;
+    font-size: 20px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: none;
+    border-bottom: 2px solid #767474;
+  }
+  input[type=submit] {
+    font-family: 'Helvetica', serif;
+    width: 100%;
+    background-color: #767474;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    margin: 4px 2px;
+    border-radius: 10px;
+  }
+  input[type=radio] {
+    text-align: horizontal;
+    font-family: 'Helvetica', serif;
+    width: 100%;
+    background-color: #767474;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    margin: 4px 2px;
+    border-radius: 10px;
+  }
+  input[type=date] {
+    text-align: horizontal;
+    font-family: 'Helvetica', serif;
+    width: 100%;
+    background-color: hwb(186 6% 13%);
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    margin: 4px 2px;
+    border-radius: 10px;
+  }
+  
